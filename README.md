@@ -24,3 +24,4 @@
 <br/> - 셀에 체크마크 표시될시 tableViewCell에 추가 
 
 # ● 앱 구성
+<img width="600" alt="image" src="<img width="689" alt="스크린샷 2023-09-01 오후 12 38 26" src="https://github.com/dnjs012452/SJ-todoList2/assets/139090550/e9b3ea4f-6ebb-4bb8-aa1e-590fe519cb99">

@@ -3,7 +3,7 @@
 ##### TodoList 앱 만들기(메모 작성 및 수정, 데이터 저장)
 ##### Project execution period : 2023.08.22~2023.09.01
 -----------------------
-# 📌 Project Explanation
+# 📌 앱 설명
 
 1. 노스토리보드(코드베이스)로 코드 작성
 2. 메인 controller
@@ -22,3 +22,5 @@
 <br/> - 제목 및 내용 작성 후 done 버튼 누를시 0.5 로딩 화면 후 데이터 저장
 5. DoneViewController
 <br/> - 셀에 체크마크 표시될시 tableViewCell에 추가 
+
+# ● 앱 구성
